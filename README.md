@@ -1,5 +1,5 @@
 # Myntra-2024-StarLight-Innovators
-[Link to Presentation](https://docs.google.com/presentation/d/1t4w5Zc1-aIeCZ1PLIqNwpZzju0wiZtiVh52NKL7_YyM/edit?usp=sharing)
+🔗[Link to Presentation](https://docs.google.com/presentation/d/1t4w5Zc1-aIeCZ1PLIqNwpZzju0wiZtiVh52NKL7_YyM/edit?usp=sharing)
 
 ### Overview
 With the increasing demand for online shopping and the need for personalized user experiences, Myntra aims to leverage advanced technologies to enhance customer engagement and satisfaction. This project focuses on identifying current fashion trends through social media analysis, creating 3D visualizations of trending products, and developing a virtual try-on feature using augmented reality (AR) to provide a seamless and interactive shopping experience.
