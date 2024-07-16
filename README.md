@@ -1,5 +1,7 @@
 # Myntra-HackerRamp2024-We-For-She-StarLight-Innovators
 🔗[Link to Presentation](https://docs.google.com/presentation/d/1t4w5Zc1-aIeCZ1PLIqNwpZzju0wiZtiVh52NKL7_YyM/edit?usp=sharing)
+🔗[Implementation Video](https://www.canva.com/design/DAGK8N0q2p8/lSdyHF2i38x3pRiwfxu8EQ/watch?utm_content=DAGK8N0q2p8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 
 ### Overview
 With the increasing demand for online shopping and the need for personalized user experiences, Myntra aims to leverage advanced technologies to enhance customer engagement and satisfaction. This project focuses on identifying current fashion trends through social media analysis, creating 3D visualizations of trending products, and developing a virtual try-on feature using augmented reality (AR) to provide a seamless and interactive shopping experience.
