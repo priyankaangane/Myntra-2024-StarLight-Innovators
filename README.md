@@ -74,6 +74,6 @@ An Android application was developed to present trending products and facilitate
 - **Android Studio**
 
 ### References
-- [Instagram Scraper GitHub Repository](https://github.com/arc298/instagram-scraper)
+- [Instagram Scraper GitHub Repository](https://github.com/instaloader/instaloader)
 - [PiFuHD GitHub Repository](https://github.com/facebookresearch/pifuhd)
 
