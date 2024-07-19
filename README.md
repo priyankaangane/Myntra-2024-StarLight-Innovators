@@ -63,6 +63,27 @@ An Android application was developed to present trending products and facilitate
 2. **AR Implementation:** Integration of AR capabilities for virtual try-on.
 3. **UI/UX Design:** Creation of an intuitive interface for optimal user experience.
 
+#### Challenges
+Data Collection:
+
+API Restrictions: Limited Instagram API access led to reliance on web scraping.
+Rate Limits: Faced rate limits during scraping, requiring careful scheduling.
+3D Modeling:
+
+Automation Issues: PiFuHD's automated modeling was inaccurate, necessitating manual creation.
+Time Constraints: Manual modeling was time-intensive and required specialized skills.
+
+#### Future Scope
+Enhanced Trend Identification:
+
+NLP Integration: Implement Natural Language Processing (NLP) to analyze text data for more accurate trend identification.
+Sentiment Analysis: Use sentiment analysis to gauge user opinions and preferences.
+Automation in 3D Modeling:
+
+Improved Algorithms: Explore advanced algorithms for more accurate automated 3D model generation.
+Augmented Reality (AR) Enhancements:
+
+Advanced AR Features: Integrate more sophisticated AR features for a better virtual try-on experience.
 ### Technologies Used
 - **Python**
 - **Instaloader**
