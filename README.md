@@ -68,6 +68,7 @@ An Android application was developed to present trending products and facilitate
 
 API Restrictions: Limited Instagram API access led to reliance on web scraping.
 Rate Limits: Faced rate limits during scraping, requiring careful scheduling.
+
 2. 3D Modeling:
 
 Automation Issues: PiFuHD's automated modeling was inaccurate, necessitating manual creation.
@@ -78,9 +79,11 @@ Time Constraints: Manual modeling was time-intensive and required specialized sk
 
 NLP Integration: Implement Natural Language Processing (NLP) to analyze text data for more accurate trend identification.
 Sentiment Analysis: Use sentiment analysis to gauge user opinions and preferences.
-2. Automation in 3D Modeling:
 
+2. Automation in 3D Modeling:
+   
 Improved Algorithms: Explore advanced algorithms for more accurate automated 3D model generation.
+
 3. Augmented Reality (AR) Enhancements:
 
 Advanced AR Features: Integrate more sophisticated AR features for a better virtual try-on experience.
